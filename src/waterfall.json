@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "waterfall1",
+        "image": "wf1.jpg",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "waterfall2",
+        "image": "wf2.jpg",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "waterfall3",
+        "image": "wf3.jpg",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "waterfall4",
+        "image": "wf4.jpg",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "waterfall5",
+        "image": "wf5.jpg",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "waterfall6",
+        "image": "wf6.jpg",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "waterfall7",
+        "image": "wf7.jpg",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "waterfall8",
+        "image": "wf8.jpg",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "waterfall9",
+        "image": "wf9.jpg",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "waterfall10",
+        "image": "wf10.jpg",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "waterfall11",
+        "image": "wf11.jpg",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "waterfall12",
+        "image": "wf12.jpg",
+        "count": 0
+    }
+
+]
